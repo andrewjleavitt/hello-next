@@ -15,6 +15,9 @@ const Header = () => (
     <Link href="/shows">
       <a>Shows</a>
     </Link>
+    <Link href="/teams">
+      <a>Teams</a>
+    </Link>
     <style jsx>{`
     a {
       color: red;
